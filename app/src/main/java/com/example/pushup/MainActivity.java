@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         int i = 1+1;
 
-        int ii = 3*3;
+        int ii = 33;
 
         int iii = i * ii;
 
