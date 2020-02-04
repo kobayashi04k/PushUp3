@@ -1,0 +1,19 @@
+Index: app/src/main/java/com/example/pushup/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/pushup/MainActivity.java	(revision 88a2cf80229da7a8f46fceebdf41d82c69e74558)
++++ app/src/main/java/com/example/pushup/MainActivity.java	(date 1580846629701)
+@@ -14,9 +14,9 @@
+ 
+     private void testUpload(){
+ 
+-        int i = 1+1;
++        int i = 1*1;
+ 
+-        int ii = 3+3;
++        int ii = 3*3;
+ 
+         int iii = i + ii;
+ 
