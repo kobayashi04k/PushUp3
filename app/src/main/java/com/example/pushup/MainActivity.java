@@ -20,9 +20,5 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i + ii;
 
-        int j = 4;
-
-        int money = 500;
-
     }
 }
