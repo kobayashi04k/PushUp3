@@ -14,13 +14,13 @@ public class MainActivity extends AppCompatActivity {
 
     private void testUpload(){
 
-        int i = 1+1;
+        int i = 7;
 
-        int ii = 3*3;
+        int ii = 31;
 
-        int iii = i * ii;
+        int iii = i + ii;
 
-        String test = "Test";
+        String test = "Request";
 
         Boolean t = false;
 
