@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         int j = 4;
 
+        int money = 500;
+
     }
 }
